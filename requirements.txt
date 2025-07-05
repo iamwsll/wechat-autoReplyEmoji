@@ -1,0 +1,7 @@
+pyautogui
+pywin32
+comtypes
+pycaw
+psutil
+keyboard
+pynput
