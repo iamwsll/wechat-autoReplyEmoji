@@ -234,7 +234,7 @@ python wechat_auto_emoji.py
 
 - 版本：1.2
 - 开发日期：2025年7月5日
-- 开发者：GitHub Copilot
+- 开发者：wsll
 
 ## 项目文件说明
 
